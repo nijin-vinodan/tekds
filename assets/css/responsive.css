@@ -44,7 +44,7 @@
 }/*max-width:991px*/
 
 @media screen and (max-width:768px){
-    
+    .welcome-hero {height: 300px;}
 }/*max-width:768px*/
 
 @media screen and (max-width:767px){

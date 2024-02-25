@@ -122,8 +122,12 @@ nav.navbar.bootsnav {
     color: #1F51FF;
     font-size: 20px;
     font-weight: 600;
-    padding: 33px 0px 57px;
+    padding: 25px 0px;
     text-transform: uppercase;
+}
+
+.navbar-header a.navbar-brand img {
+    width: 140px;
 }
 /*.navbar-brand*/
 
@@ -190,11 +194,13 @@ nav.navbar.bootsnav .navbar-toggle i{color: #1F51FF;}
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(../images/about/welcome-banner.jpg)no-repeat;
+    background:url(../images/about/welcome-banner.png)no-repeat;
     background-size:cover;
     background-position: center;
     height:700px;
 }
+
+
 
 
 /*.header-text-area*/
