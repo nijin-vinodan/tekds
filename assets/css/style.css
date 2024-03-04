@@ -347,6 +347,22 @@ nav.navbar.bootsnav .navbar-toggle i{color: #1F51FF;}
     font-size: 20px;
 }
 
+.services .item-desc {
+    margin-bottom: 20px;
+}
+
+.services .item-desc p, .services .item-desc li{
+    color: #999fb3;
+    font-size: 14px;
+    text-align: justify;
+    line-height: 1.8;
+}
+
+.services .item-desc ol {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
 .services .download-button {
     margin: 0 auto;
     width: 200px;
